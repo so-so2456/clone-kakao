@@ -1,3 +1,3 @@
-# KAKAO CLONE 2020
+# KAKAO CLONE
 
 Using HTML and CSS
